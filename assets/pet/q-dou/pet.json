@@ -1,0 +1,19 @@
+{
+  "id": "q-dou",
+  "displayName": "Q豆 · 代码史莱姆",
+  "description": "半透明的薄荷绿代码史莱姆，Q 形天线、发光大眼，安静陪伴编码。",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.png",
+  "kind": "creature",
+  "vibes": [
+    "calm",
+    "playful",
+    "wholesome"
+  ],
+  "tags": [
+    "code",
+    "slime",
+    "mint",
+    "q-dou"
+  ]
+}

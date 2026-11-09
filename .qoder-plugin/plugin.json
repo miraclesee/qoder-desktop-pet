@@ -1,0 +1,18 @@
+{
+  "name": "qoder-desktop-pet",
+  "displayName": "Qoder Desktop Pet · Q豆",
+  "version": "0.1.0",
+  "description": "Unofficial Qoder desktop-pet plugin that installs the Q豆 code-slime companion.",
+  "author": {
+    "name": "Q豆 Desktop Pet contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "qoder-plugin",
+    "desktop-pet",
+    "q-dou",
+    "code-slime"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
